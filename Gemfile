@@ -46,3 +46,4 @@ end
 
 gem 'rails_12factor', group: :production
 ruby "1.9.3"
+gem 'bcrypt-ruby', '~> 3.1.5'
